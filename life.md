@@ -24,7 +24,7 @@
 - 05/2012-06/2012 Wrote a Monte-Carlo simulation model of cell motility in Fortran
 - 12/2012 IBRO-UNESCO conference on Computational Neuroscience, India (Started becoming interested in neuroscience!)
 - ~2013 Learned Bioinformatics in R
-- ~2013-2014 Master's Thesis in Non Linear Dyanamics and Chaos Theory
+- ~2013-2014 Master's Thesis in Non Linear Dynamics and Chaos Theory
 - 06/2013 6th Summer School in Computational Neuroscience, Canada (First solo international trip!!!)
 - 07/2013 Visited Ottawa, Toronto and Montreal
 - ~2014 Got INSPIRE PhD Scholarship to purse Phd anywhere in India
@@ -41,8 +41,8 @@
 - ~2018 First introduction to the world of Spatial Data at USyd!
 - 10/2017-03/2018 Research Assistant at Centre for Complex Systems at USyd on [Studying the Spread of Salmonellosis in NSW](https://github.com/KiranmayiV/data-science-portfolio/tree/master/Spread%20of%20Salmonellosis%20in%20NSW)
 - 04/2018-06/2018 Research Assistant at School of IT at USyd
-- 05/2019 First scientific Journal publication!
-- 12/2018-06/2019 Data Analyst in Educationg Portfolio of USyd
+- 05/2019 First scientific Journal publication and media coverage of work in 7News, News.com.au, Foodprocessing!
+- 12/2018-06/2019 Data Analyst in Education Portfolio of USyd
 - 08/2019-12/2019 Research Assistant for Soda Labs, Monash Uni
 - 1/2020-02/2020 Geospatial Satellite data Intern at Sensegrass
 - 03/2020-07/2020 Lead Data Analyst at PlaceScore, Sydney
